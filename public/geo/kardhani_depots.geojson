@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "kardhani_depots",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "beat": 0 }, "geometry": { "type": "Point", "coordinates": [ 75.714545, 26.9527422 ] } },
+{ "type": "Feature", "properties": { "beat": 1 }, "geometry": { "type": "Point", "coordinates": [ 75.7114321, 26.9553019 ] } },
+{ "type": "Feature", "properties": { "beat": 2 }, "geometry": { "type": "Point", "coordinates": [ 75.7066564, 26.9540564 ] } },
+{ "type": "Feature", "properties": { "beat": 3 }, "geometry": { "type": "Point", "coordinates": [ 75.7076152, 26.9503648 ] } },
+{ "type": "Feature", "properties": { "beat": 4 }, "geometry": { "type": "Point", "coordinates": [ 75.7116308, 26.9495438 ] } }
+]
+}
